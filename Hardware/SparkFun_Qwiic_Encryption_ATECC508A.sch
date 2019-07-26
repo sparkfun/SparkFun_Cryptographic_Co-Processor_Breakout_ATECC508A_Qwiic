@@ -15102,7 +15102,7 @@ You are welcome to use this library for commercial purposes. For attribution, we
 SDA and SCL 
 to 4.7k pull-up 
 resistors.</text>
-<text x="238.76" y="7.62" size="2.54" layer="94" font="vector" align="center-left">v10</text>
+<text x="238.76" y="7.62" size="2.54" layer="94" font="vector" align="center-left">v01</text>
 <text x="165.862" y="11.176" size="2.54" layer="94" font="vector">Pete Lewis</text>
 <wire x1="248.92" y1="91.44" x2="0" y2="91.44" width="0.2032" layer="97" style="shortdash"/>
 <text x="5.842" y="178.562" size="2.54" layer="94" font="vector" rot="MR180" align="top-left">ATECC508A - CryptoAuthentication IC </text>
