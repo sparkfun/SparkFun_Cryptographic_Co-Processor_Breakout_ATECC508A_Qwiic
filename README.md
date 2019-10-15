@@ -17,6 +17,8 @@ Embedded in the chip is a 10 Kb EEPROM array that can be used for storing keys, 
 
 Each ATECC508A ships with a guaranteed unique 72-bit serial number and includes several security features to prevent physical attacks on the device itself, or logical attacks on the data transmitted between the device.
 
+**&#x1F512; Note:** This board is **NOT** capable of encrypting and decrypting data. It can however, perform quite a few cryptographic authentication processes such as secure private key creation, secure key storage, and digital signature creation and verification.
+
 Repository Contents
 -------------------
 
