@@ -31,7 +31,7 @@ Repository Contents
 Documentation
 --------------
 * **[SparkFun ATECCX08A Arduino Library](https://github.com/sparkfun/SparkFun_ATECCX08a_Arduino_Library)** - Arduino library for the ATECCX08A.
-* **[SparkFun Cryptographic Breakout Hookup Guide](https://learn.sparkfun.com/tutorials/sparkfun-cryptographic-co-processor-breakout-atecc508a-qwiic-hookup-guide)** - Basic hookup guide for the SparkFun Cryptographic Co-Processor Breakout.
+* **[SparkFun Cryptographic Breakout Hookup Guide](https://learn.sparkfun.com/tutorials/cryptographic-co-processor-atecc508a-qwiic-hookup-guide)** - Basic hookup guide for the SparkFun Cryptographic Co-Processor Breakout.
 
 Product Versions
 ----------------
