@@ -1,9 +1,7 @@
 SparkFun Cryptographic Co-Processor Breakout - ATECC508A (Qwiic)
 ========================================
 
-![SparkFun Cryptographic Breakout](URL for picture of part)
-
-##PIC URL
+![SparkFun Cryptographic Breakout](https://cdn.sparkfun.com/assets/parts/1/4/1/6/9/15573-SparkFun_Cryptographic_Co-Processor_Breakout_-_ATECC508A__Qwiic_-01.jpg)
 
 [*SparkFun Cryptographic Co-Processor Breakout - ATECC508A (Qwiic) (DEV-15573)*](https://www.sparkfun.com/products/15573)
 
